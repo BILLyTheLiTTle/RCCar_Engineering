@@ -1,0 +1,2 @@
+- BTS7960 part could be found here: http://forum.fritzing.org/t/ibt2-h-bridge-part/6582/2
+- 74HC4053 Part could be found here: http://forum.fritzing.org/t/cmos-components/4703/2

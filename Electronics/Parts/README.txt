@@ -1,0 +1,1 @@
+- Adafruit T-Cobbler Plus part could be found here: https://github.com/adafruit/Fritzing-Library/blob/master/parts/Adafruit%20T-Cobbler%20Plus.fzpz
